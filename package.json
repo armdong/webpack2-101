@@ -1,0 +1,8 @@
+{
+  "name": "webpack2-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:armdong/webpack2-101.git",
+  "author": "armdong <armdong@163.com>",
+  "license": "MIT"
+}
