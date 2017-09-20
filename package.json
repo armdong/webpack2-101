@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:armdong/webpack2-101.git",
   "author": "armdong <armdong@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "docs": "docsify serve docs"
+  }
 }
