@@ -1,2 +1,3 @@
-# webpack2-101
-Learning webpack2 step by step.
+# Webpack2 学习笔记
+
+> 记录自己在学习 Webpack2 中总结的一些知识点，方便后面查阅。
