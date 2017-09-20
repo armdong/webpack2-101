@@ -1,1 +1,3 @@
-console.log('Hello Webpack 2!!!');
+import component from './component';
+
+document.body.appendChild(component());
