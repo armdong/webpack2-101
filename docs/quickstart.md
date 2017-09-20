@@ -36,12 +36,13 @@ console.log('Hello Webpack 2!');
 到目前为止，我们的项目目录结构如下：
 ```text
 -| webpack2-101
-  -| dist
+  -| node_modules/
+  -| dist/
     -| index.js
-  -| src
+  -| src/
     -| index.js
   -| .gitignore
-  -| LICENSE
   -| package.json
+  -| LICENSE
   -| README.md
 ```
