@@ -1,8 +1,6 @@
 - 初探 Webpack 2
   - [快速开始](quickstart.md)
-  - [浏览器自动刷新](automatic-browser-refresh.md)
-  - [Javascript 代码检测](linting-javascript.md)
-  - [Webpack 配置](composing-configuration.md)
+  - [搭建 Webpack 配置项](configuration.md)
 
 - Webpack 2 小试牛刀
 
